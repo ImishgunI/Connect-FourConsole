@@ -1,0 +1,3 @@
+/home/michael/Рабочий стол/C++/Connect-Four/build/CMakeFiles/main.dir
+/home/michael/Рабочий стол/C++/Connect-Four/build/CMakeFiles/edit_cache.dir
+/home/michael/Рабочий стол/C++/Connect-Four/build/CMakeFiles/rebuild_cache.dir

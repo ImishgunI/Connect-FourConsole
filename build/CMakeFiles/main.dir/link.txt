@@ -1,0 +1,1 @@
+/usr/bin/clang++ "CMakeFiles/main.dir/home/michael/Рабочий_стол/C++/Connect-Four/src/main.cpp.o" -o main 
